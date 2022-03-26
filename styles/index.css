@@ -2,10 +2,12 @@ body {
 	background-color: #e2e2e2;
 }
 
+/* Title */
 .title {
 	font-family: sans-serif;
 }
 
+/* Description */
 .desc {
 	font-family: sans-serif, Verdana;
 	margin: auto;
