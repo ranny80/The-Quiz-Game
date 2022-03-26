@@ -1,0 +1,19 @@
+body {
+	background-color: #e2e2e2;
+}
+
+.title {
+	font-family: sans-serif;
+}
+
+.desc {
+	font-family: sans-serif, Verdana;
+	margin: auto;
+	padding: 2px;
+}
+
+#startButton {
+	font-family: Georgia, Helvetica;
+	font-size: 18px;
+	padding: 5px;
+}
