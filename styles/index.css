@@ -10,8 +10,14 @@ body {
 /* Description */
 .desc {
 	font-family: sans-serif, Verdana;
-	margin: auto;
+	margin: 1px;
 	padding: 2px;
+}
+
+/* Content */
+.content {
+	display: block;
+	margin: 2px;
 }
 
 /* Start Button */
