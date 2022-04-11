@@ -5,6 +5,6 @@ console.log(loaded);
 
 // Clicking the start button when it's loaded
 function clickStart() {
-	const buttonClick = document.getElementById("startButton");
-	buttonClick.innerHTML = "<center>Coming Soon!</center>";	
+    const buttonClick = document.getElementById("startButton");
+    buttonClick.innerHTML = "<center>Coming Soon!</center>";	
 }
