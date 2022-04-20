@@ -1,0 +1,23 @@
+{
+  "name": "the-quiz-game",
+  "version": "1.0.0",
+  "description": "This game answer these questions on the quiz.",
+  "main": "scripts/index.js",
+  "scripts": {
+    "start": "node .",
+    "watch": "sass --watch scss:styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranny80/The-Quiz-Game.git"
+  },
+  "author": "ranny80",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ranny80/The-Quiz-Game/issues"
+  },
+  "homepage": "https://github.com/ranny80/The-Quiz-Game#readme",
+  "devDependencies": {
+    "sass": "^1.50.1"
+  }
+}
