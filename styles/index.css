@@ -1,28 +1,26 @@
 body {
-    background-color: #e2e2e2;
+  background-color: #e2e2e2;
 }
 
-/* Title */
 .title {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
-/* Description */
 .desc {
-    font-family: sans-serif, Verdana;
-    margin: 1px;
-    padding: 2px;
+  font-family: sans-serif, Verdana;
+  margin: 1px;
+  padding: 2px;
 }
 
-/* Content */
 .content {
-    display: block;
-    margin: 9px;
+  display: block;
+  margin: 9px;
 }
 
-/* Start Button */
 #startButton {
-    font-family: Georgia, Helvetica;
-    font-size: 18px;
-    padding: 5px;
+  font-family: Georgia, Helvetica;
+  font-size: 18px;
+  padding: 5px;
 }
+
+/*# sourceMappingURL=index.css.map */
