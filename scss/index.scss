@@ -1,29 +1,34 @@
 $bgcolor: #e2e2e2;
 
-body {
+body
+{
     background-color: $bgcolor;
 }
 
 // Title
-.title {
+.title
+{
     font-family: sans-serif;
 }
 
 // Description
-.desc {
+.desc
+{
     font-family: sans-serif, Verdana;
     margin: 1px;
     padding: 2px;
 }
 
 // Content
-.content {
+.content
+{
     display: block;
     margin: 9px;
 }
 
 // Start Button
-#startButton {
+#startButton
+{
     font-family: Georgia, Helvetica;
     font-size: 18px;
     padding: 5px;
